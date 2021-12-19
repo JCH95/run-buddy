@@ -13,4 +13,4 @@ A website that offers fitness training services.
 ## Contributions
 Made with <3 by Josh
 
-# Run Buddy INC
+### CR 2019 Run Buddy, INC
